@@ -1,7 +1,10 @@
 #!usr/bin/python
 
 def sum(a,  b):
-    pass
-
+    return(a+b)
 def sub(a, b):
     return(a-b:)
+
+    
+
+
